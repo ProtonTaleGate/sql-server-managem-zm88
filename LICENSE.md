@@ -1,4 +1,4 @@
-# 
+# secure SQL Server Management Studio for PC | SQL Server Management Studio for Windows Theme | schema-comparison + user-management offers the most advanced SQL Server Management
 
 
 
